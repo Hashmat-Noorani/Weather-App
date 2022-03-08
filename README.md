@@ -10,8 +10,6 @@ built-in map allowing users to monitor the weather in a particular region or a s
 
 ![Search Page Image](./readme%20Images/searchPage.jpg)
 
-
-
 **WEATHER PAGE:**
 
 ![Weather Page Image](./readme%20Images/weather.png)
